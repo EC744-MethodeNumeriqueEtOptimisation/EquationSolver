@@ -1,2 +1,2 @@
 # EquationSolver
-Solve equation 
+Solve equation F(x) = 0 
